@@ -8,6 +8,8 @@ This custom dataset is about the cricket players participated in the 2019 ICC Cr
 
 The Graph have a central node named (WC) for World cup.This node is linked to 10 nodes each representing one country and each country is linked to four nodes indicating the different types of players (Batsman,Bowler,All-rounder,Wicket-Keeper). All these four nodes are linked to their respective players.<br />
 
+![graph illustration](graph_diagram.png)
+
 We are going to predict the link between any two players by using Graph Embeddings.<br />
 
 ### Expected Results :
