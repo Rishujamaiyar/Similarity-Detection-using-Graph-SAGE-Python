@@ -1,0 +1,201 @@
+source,target
+Kedar Jadhav,Bat_IND
+Mayank Agarwal,Bat_IND
+Rohit Sharma,Bat_IND
+Shikhar Dhawan,Bat_IND
+Virat Kohli,Bat_IND
+Hardik Pandya,All_IND
+Ravindra Jadeja,All_IND
+Dinesh Karthik,Wc_IND
+KL Rahul,Wc_IND
+MS Dhoni,Wc_IND
+Rishabh Pant,Wc_IND
+Bhuvneshwar Kumar,Bow_IND
+Jasprit Bumrah,Bow_IND
+Kuldeep Yadav,Bow_IND
+Mohammed Shami,Bow_IND
+Yuzvendra Chahal,Bow_IND
+Aaron Finch,Bat_AUS
+David Warner,Bat_AUS
+Shaun Marsh,Bat_AUS
+Steve Smith,Bat_AUS
+Glenn Maxwell,All_AUS
+Marcus Stoinis,All_AUS
+Alex Carey,Wc_AUS
+Matthew Wade,Wc_AUS
+Peter Handscomb,Wc_AUS
+Adam Zampa,Bow_AUS
+Jason Behrendorff,Bow_AUS
+Kane Richardson,Bow_AUS
+Mitchell Starc,Bow_AUS
+Nathan Coulter-Nile,Bow_AUS
+Nathan Lyon,Bow_AUS
+Pat Cummins,Bow_AUS
+Eoin Morgan,Bat_ENG
+James Vince,Bat_ENG
+Jason Roy,Bat_ENG
+Joe Root,Bat_ENG
+Ben Stokes,All_ENG
+Liam Dawson,All_ENG
+Moeen Ali,All_ENG
+Tom Curran,All_ENG
+Jonny Bairstow,Wc_ENG
+Jos Buttler,Wc_ENG
+Adil Rashid,Bow_ENG
+Chris Woakes,Bow_ENG
+Jofra Archer,Bow_ENG
+Liam Plunkett,Bow_ENG
+Mark Wood,Bow_ENG
+Henry Nicholls,Bat_NZ
+Kane Williamson,Bat_NZ
+Martin Guptill,Bat_NZ
+Ross Taylor,Bat_NZ
+Colin de Grandhomme,All_NZ
+Colin Munro,All_NZ
+Jimmy Neesham,All_NZ
+Mitchell Santner,All_NZ
+Tom Blundell,Wc_NZ
+Tom Latham,Wc_NZ
+Ish Sodhi,Bow_NZ
+Lockie Ferguson,Bow_NZ
+Matt Henry,Bow_NZ
+Tim Southee,Bow_NZ
+Trent Boult,Bow_NZ
+Asif Ali,Bat_Pak
+Babar Azam,Bat_Pak
+Fakhar Zaman,Bat_Pak
+Haris Sohail,Bat_Pak
+Imam-ul-Haq,Bat_Pak
+Imad Wasim,All_Pak
+Mohammad Hafeez,All_Pak
+Shadab Khan,All_Pak
+Shoaib Malik,All_Pak
+Sarfaraz Ahmed,Wc_Pak
+Hassan Ali,Bow_Pak
+Mohammad Amir,Bow_Pak
+Mohammad Hasnain,Bow_Pak
+Shaheen Afridi,Bow_Pak
+Wahab Riaz,Bow_Pak
+Avishka Fernando,Bat_SL
+Dimuth Karunaratne,Bat_SL
+Lahiru Thirimanne,Bat_SL
+Angelo Mathews,All_SL
+Dhananjaya de Silva,All_SL
+Isuru Udana,All_SL
+Jeevan Mendis,All_SL
+Milinda Siriwardana,All_SL
+Thisara Perera,All_SL
+Kusal Mendis,Wc_SL
+Kusal Perera,Wc_SL
+Jeffrey Vandersay,Bow_SL
+Kasun Rajitha,Bow_SL
+Lasith Malinga,Bow_SL
+Suranga Lakmal,Bow_SL
+Aiden Markram,Bat_SA
+David Miller,Bat_SA
+Faf du Plessis,Bat_SA
+Rassie van der Dussen,Bat_SA
+Chris Morris,All_SA
+Dwaine Pretorius,All_SA
+JP Duminy,All_SA
+Quinton de Kock,Wc_SA
+Andile Phehlukwayo,Bow_SA
+Beuran Hendricks,Bow_SA
+Imran Tahir,Bow_SA
+Kagiso Rabada,Bow_SA
+Lungi Ngidi,Bow_SA
+Tabraiz Shamsi,Bow_SA
+Mosaddek Hossain,Bat_BAN
+Tamim Iqbal,Bat_BAN
+Mahmudullah,All_BAN
+Mehedi Hasan,All_BAN
+Mohammad Saifuddin,All_BAN
+Sabbir Rahman,All_BAN
+Shakib Al Hasan,All_BAN
+Soumya Sarkar,All_BAN
+Liton Das,Wc_BAN
+Mohammad Mithun,Wc_BAN
+Mushfiqur Rahim,Wc_BAN
+Abu Jayed,Bow_BAN
+Mashrafe Mortaza,Bow_BAN
+Mustafizur Rahman,Bow_BAN
+Rubel Hossain,Bow_BAN
+Darren Bravo,Bat_WI
+Evin Lewis,Bat_WI
+Shimron Hetmyer,Bat_WI
+Sunil Ambris,Bat_WI
+Carlos Brathwaite,All_WI
+Chris Gayle,All_WI
+Fabian Allen,All_WI
+Jason Holder,All_WI
+Nicholas Pooran,Wc_WI
+Shai Hope,Wc_WI
+Ashley Nurse,Bow_WI
+Kemar Roach,Bow_WI
+Oshane Thomas,Bow_WI
+Shannon Gabriel,Bow_WI
+Sheldon Cottrell,Bow_WI
+Asghar Afghan,Bat_AFG
+Hashmatullah Shahidi,Bat_AFG
+Hazrat Zazai,Bat_AFG
+Ikram Ali Khil,Bat_AFG
+Najibullah Zadran,Bat_AFG
+Noor Ali Zadran,Bat_AFG
+Mohammad Nabi,All_AFG
+Rahmat Shah,All_AFG
+Samiullah Shinwari,All_AFG
+Dawlat Zadran,Bow_AFG
+Gulbadin Naib,Bow_AFG
+Hamid Hassan,Bow_AFG
+Mujeeb Ur Rahman,Bow_AFG
+Rashid Khan,Bow_AFG
+Sayed Shirzad,Bow_AFG
+Bat_IND,IND
+All_IND,IND
+Wc_IND,IND
+Bow_IND,IND
+Bat_AUS,AUS
+All_AUS,AUS
+Wc_AUS,AUS
+Bow_AUS,AUS
+Bat_ENG,ENG
+All_ENG,ENG
+Wc_ENG,ENG
+Bow_ENG,ENG
+Bat_NZ,NZ
+All_NZ,NZ
+Wc_NZ,NZ
+Bow_NZ,NZ
+Bat_Pak,Pak
+All_Pak,Pak
+Wc_Pak,Pak
+Bow_Pak,Pak
+Bat_SL,SL
+All_SL,SL
+Wc_SL,SL
+Bow_SL,SL
+Bat_SA,SA
+All_SA,SA
+Wc_SA,SA
+Bow_SA,SA
+Bat_BAN,BAN
+All_BAN,BAN
+Wc_BAN,BAN
+Bow_BAN,BAN
+Bat_WI,WI
+All_WI,WI
+Wc_WI,WI
+Bow_WI,WI
+Bat_AFG,AFG
+All_AFG,AFG
+Bow_AFG,AFG
+IND,WC
+AUS,WC
+ENG,WC
+NZ,WC
+Pak,WC
+SL,WC
+SA,WC
+BAN,WC
+WI,WC
+AFG,WC
